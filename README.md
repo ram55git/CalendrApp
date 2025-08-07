@@ -2,7 +2,7 @@
 
 A modern, responsive yearly calendar application with todo management, built with vanilla JavaScript, HTML, and CSS.
 
-##App Preview
+## App Preview
 Please visit this page to view or use the app - https://calendr.t25apps.com
 
 
