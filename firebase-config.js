@@ -3,7 +3,7 @@
 // You can find these in your Firebase Console > Project Settings > General > Your apps
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAnEp0mUwzgK90p6QEJv2wO8ZJ3YUoPkUY",
+    apiKey: "",
     authDomain: "calendr-app-b3b8b.firebaseapp.com",
     projectId: "calendr-app-b3b8b",
     storageBucket: "calendr-app-b3b8b.firebasestorage.app",
